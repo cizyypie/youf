@@ -1,5 +1,7 @@
 {
-  "name": "first-bite",
+  "name": "order-service",
+  "module": "index.ts",
+  "type": "module",
   "private": true,
   "devDependencies": {
     "@types/bun": "latest"
